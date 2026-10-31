@@ -32,7 +32,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Dependency versions -->
-        <jackson.version>2.18.3</jackson.version>
+        <jackson.version>2.18.11</jackson.version>
         <flexmark.version>0.64.8</flexmark.version>
         <playwright.version>1.44.0</playwright.version>
         <commonmark.version>0.17.1</commonmark.version>
