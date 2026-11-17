@@ -42,7 +42,7 @@
         <javatuples.version>1.2</javatuples.version>
         <jjwt.version>0.11.5</jjwt.version>
         <jackson-databind-nullable.version>0.2.6</jackson-databind-nullable.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
     </properties>
 
     <modules>
